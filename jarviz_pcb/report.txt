@@ -1,0 +1,33 @@
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Cu.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Cu.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Paste.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Paste.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Silkscreen.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Silkscreen.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Mask.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Mask.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-Edge_Cuts.gbr'.
+Created Gerber job file '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-job.gbrjob'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Cu.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Cu.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Paste.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Paste.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Silkscreen.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Silkscreen.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Mask.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Mask.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-Edge_Cuts.gbr'.
+Created Gerber job file '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-job.gbrjob'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Cu.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Cu.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Paste.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Paste.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Silkscreen.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Silkscreen.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-F_Mask.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-B_Mask.gbr'.
+Plotted to '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-Edge_Cuts.gbr'.
+Created Gerber job file '/home/mohit/diode_and_gate/project 1/mobile charger/ac to dc converter/skill_up project/jarviz_pcb/jarviz_pcb-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
