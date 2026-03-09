@@ -57,7 +57,7 @@ Install KiCad
 
 Clone this repository
 
-git clone https://github.com/yourusername/jarvis_pcb.git
+git clone https://github.com/mohit25101/jarvis_pcb.git
 
 Open the project file in KiCad.
 
